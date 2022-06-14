@@ -1,0 +1,1 @@
+var json_ParqueIndSantoDomingo_11 = {"type":"FeatureCollection","name":"ParqueIndSantoDomingo_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[-74.23868338266692,4.719069637228932]}}]}
